@@ -46,7 +46,7 @@ mvn clean install
 Execute any of the two commands below to run the application
 
 ```
-java -jar target/spring-boot-admin-server-0.0.1-SNAPSHOT.jar
+java -jar target/spring-security-jwt-0.0.1-SNAPSHOT.jar
 ```
 
 ```
